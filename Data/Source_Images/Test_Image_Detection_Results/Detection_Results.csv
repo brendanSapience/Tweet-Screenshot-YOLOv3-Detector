@@ -1,127 +1,127 @@
 image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
-t16.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t16.png,340,19,462,47,5,0.35238415002822876,1200,214
-t16.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t16.png,500,18,575,44,4,0.26745304465293884,1200,214
-t16.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t16.png,414,155,528,187,3,0.37040549516677856,1200,214
-t16.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t16.png,164,149,244,193,2,0.4134446382522583,1200,214
-t16.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t16.png,708,160,797,188,0,0.5679175853729248,1200,214
-t17.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t17.png,406,384,516,416,3,0.6901690363883972,1192,444
-t17.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t17.png,155,385,244,428,2,0.2764558494091034,1192,444
-t17.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t17.png,138,92,1192,330,1,0.8329556584358215,1192,444
-t17.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t17.png,700,384,778,421,0,0.5758735537528992,1192,444
-t15.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t15.png,322,17,480,44,5,0.31730902194976807,1194,182
-t15.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t15.png,402,125,528,154,3,0.4462486207485199,1194,182
-t15.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t15.png,161,121,239,156,2,0.4294266700744629,1194,182
-t15.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t15.png,697,131,797,147,0,0.4898598790168762,1194,182
-t29.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t29.png,265,19,409,55,5,0.5381330251693726,1204,256
-t29.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t29.png,168,189,234,233,2,0.5580712556838989,1204,256
-t29.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t29.png,170,57,1188,142,1,0.3441358506679535,1204,256
-t29.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t29.png,688,202,804,224,0,0.7277500033378601,1204,256
-Debate (4).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (4).png,418,25,619,77,5,0.7574236392974854,1104,512
-Debate (4).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (4).png,651,35,757,64,4,0.8977879285812378,1104,512
-Debate (4).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (4).png,189,113,1043,422,1,0.7797572016716003,1104,512
-t28.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t28.png,577,25,655,46,4,0.2728833854198456,1204,220
-t28.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t28.png,407,157,537,191,3,0.6150331497192383,1204,220
-t28.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t28.png,705,164,803,189,0,0.39471620321273804,1204,220
-t14.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t14.png,372,15,484,46,4,0.25680646300315857,1192,184
-t14.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t14.png,394,126,545,156,3,0.43491819500923157,1192,184
-t14.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t14.png,160,124,245,156,2,0.6762019991874695,1192,184
-t14.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t14.png,697,131,802,149,0,0.5556163191795349,1192,184
-Feedback (1).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Feedback (1).png,42,25,395,49,1,0.25738540291786194,395,79
-Debate (5).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (5).png,613,26,792,56,5,0.33338025212287903,1204,424
-Debate (5).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (5).png,807,24,891,63,5,0.5742051005363464,1204,424
-Debate (5).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (5).png,336,370,454,396,3,0.4310021996498108,1204,424
-Debate (5).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (5).png,176,368,228,394,2,0.6923601031303406,1204,424
-Debate (5).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (5).png,216,67,1151,322,1,0.758889377117157,1204,424
-Debate (5).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (5).png,556,374,656,388,0,0.8032544255256653,1204,424
-t13.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t13.png,361,19,498,45,4,0.31780320405960083,1192,186
-t13.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t13.png,398,125,544,158,3,0.6999368071556091,1192,186
-t13.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t13.png,157,128,252,155,2,0.3025343716144562,1192,186
-t13.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t13.png,701,128,800,154,0,0.6672006249427795,1192,186
-t12.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t12.png,403,126,547,160,3,0.6782174706459045,1200,190
-t12.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t12.png,167,127,260,159,2,0.3862081468105316,1200,190
-t12.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t12.png,704,132,809,152,0,0.3303309381008148,1200,190
-Debate (2).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (2).png,366,20,540,37,5,0.3325819671154022,1200,236
-Debate (2).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (2).png,552,13,667,42,4,0.6763830184936523,1200,236
-Debate (2).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (2).png,83,58,1200,175,1,0.41526055335998535,1200,236
-Debate (3).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (3).png,476,10,564,30,4,0.4245247542858124,1164,236
-Debate (3).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (3).png,0,65,1164,171,1,0.45498162508010864,1164,236
-Feedback (4).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Feedback (4).png,148,58,177,70,2,0.45222538709640503,637,83
-Feedback (4).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Feedback (4).png,95,56,117,70,2,0.6736937761306763,637,83
-Debate (1).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (1).png,481,18,660,35,5,0.38630783557891846,1256,960
-Debate (1).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (1).png,713,15,804,45,5,0.5086544156074524,1256,960
-Debate (1).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (1).png,713,15,804,45,4,0.3025387227535248,1256,960
-Debate (1).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (1).png,367,883,440,932,3,0.6733580231666565,1256,960
-Debate (1).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (1).png,182,884,240,935,2,0.7035195231437683,1256,960
-Debate (1).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (1).png,208,26,1183,218,1,0.7050988674163818,1256,960
-Debate (1).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (1).png,551,893,667,928,0,0.7411385774612427,1256,960
-Feedback (5).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Feedback (5).png,521,15,613,42,5,0.27663281559944153,1384,416
-Feedback (5).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Feedback (5).png,521,15,613,42,4,0.695371687412262,1384,416
-Feedback (5).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Feedback (5).png,336,306,453,348,3,0.6455994248390198,1384,416
-Feedback (5).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Feedback (5).png,169,307,234,350,2,0.3431850075721741,1384,416
-Feedback (5).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Feedback (5).png,273,84,1063,182,1,0.49762171506881714,1384,416
-Feedback (5).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Feedback (5).png,547,315,650,344,0,0.8480980396270752,1384,416
-t23.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t23.png,415,203,518,225,3,0.4525458514690399,1194,264
-t23.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t23.png,172,197,233,231,2,0.6452521085739136,1194,264
-t23.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t23.png,123,60,1194,156,1,0.5654383897781372,1194,264
-t23.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t23.png,708,202,796,229,0,0.6573325991630554,1194,264
-t22.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t22.png,458,27,671,49,5,0.5994729399681091,1196,486
-t22.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t22.png,666,26,736,50,4,0.25729063153266907,1196,486
-t22.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t22.png,417,419,531,457,3,0.8159314393997192,1196,486
-t22.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t22.png,172,424,235,460,2,0.4776216447353363,1196,486
-t22.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t22.png,181,72,1137,373,1,0.5912095904350281,1196,486
-t22.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t22.png,680,427,843,457,0,0.7387973070144653,1196,486
-t20.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t20.png,247,24,386,53,5,0.7275735139846802,1200,340
-t20.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t20.png,426,276,524,306,3,0.7692584991455078,1200,340
-t20.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t20.png,173,279,239,306,2,0.5887814164161682,1200,340
-t20.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t20.png,96,56,1200,231,1,0.5506113171577454,1200,340
-t20.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t20.png,717,282,790,296,0,0.7267379760742188,1200,340
-Debate (6).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (6).png,585,34,718,61,5,0.35853704810142517,1188,504
-Debate (6).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (6).png,619,25,680,60,5,0.4027980864048004,1188,504
-Debate (6).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (6).png,585,34,718,61,4,0.5716431736946106,1188,504
-Debate (6).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (6).png,210,70,1108,407,1,0.906076967716217,1188,504
-t21.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t21.png,311,21,489,51,5,0.2996934652328491,1196,296
-t21.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t21.png,419,234,523,265,3,0.7823375463485718,1196,296
-t21.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t21.png,165,233,231,265,2,0.7133876085281372,1196,296
-t21.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t21.png,99,54,1196,198,1,0.6247225999832153,1196,296
-t21.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t21.png,696,241,793,261,0,0.8133444786071777,1196,296
-t19.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t19.png,302,19,353,50,5,0.45627307891845703,1194,260
-t19.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t19.png,272,22,384,58,5,0.5865758061408997,1194,260
-t19.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t19.png,372,18,508,62,4,0.28009000420570374,1194,260
-t19.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t19.png,398,19,481,45,4,0.5594505071640015,1194,260
-t19.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t19.png,413,193,528,226,3,0.6633395552635193,1194,260
-t19.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t19.png,168,192,232,226,2,0.5784702897071838,1194,260
-t19.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t19.png,388,27,971,113,1,0.2874177396297455,1194,260
-t19.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t19.png,163,58,1185,143,1,0.2999471127986908,1194,260
-t19.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t19.png,697,201,789,220,0,0.7729668021202087,1194,260
-t25.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t25.png,410,25,587,43,5,0.35439780354499817,1198,294
-t25.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t25.png,415,241,517,263,3,0.6950410008430481,1198,294
-t25.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t25.png,174,232,232,269,2,0.46631696820259094,1198,294
-t25.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t25.png,92,69,1198,195,1,0.6599746346473694,1198,294
-t25.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t25.png,691,244,792,268,0,0.6545765995979309,1198,294
-Debate (7).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (7).png,646,24,732,48,4,0.35650748014450073,1264,812
-Debate (7).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (7).png,346,738,462,774,3,0.7149206399917603,1264,812
-Debate (7).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (7).png,189,741,238,773,2,0.824873149394989,1264,812
-Debate (7).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (7).png,125,56,1264,155,1,0.7613964080810547,1264,812
-Debate (7).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Debate (7).png,554,749,674,766,0,0.7160231471061707,1264,812
-t24.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t24.png,615,24,705,50,4,0.8512932062149048,1198,346
-t24.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t24.png,407,278,530,303,3,0.7475717067718506,1198,346
-t24.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t24.png,172,278,237,308,2,0.6055158376693726,1198,346
-t24.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t24.png,144,67,1198,222,1,0.6511295437812805,1198,346
-t24.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t24.png,712,283,790,300,0,0.7326654195785522,1198,346
-t18.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t18.png,281,20,373,45,5,0.6088277697563171,1200,236
-t18.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t18.png,379,14,475,48,4,0.7959884405136108,1200,236
-Feedback (3).png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/Feedback (3).png,201,138,958,453,1,0.7808839082717896,1040,478
-t26.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t26.png,424,22,616,43,5,0.4734475016593933,1196,290
-t26.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t26.png,661,8,702,62,4,0.32510221004486084,1196,290
-t26.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t26.png,660,26,699,47,4,0.417399138212204,1196,290
-t26.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t26.png,410,235,519,258,3,0.6613937616348267,1196,290
-t26.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t26.png,164,230,241,263,2,0.6218191385269165,1196,290
-t26.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t26.png,204,58,1158,183,1,0.6058876514434814,1196,290
-t26.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t26.png,699,242,783,259,0,0.7575685381889343,1196,290
-t27.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t27.png,348,20,547,51,5,0.5895863175392151,1204,338
-t27.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t27.png,570,17,616,55,4,0.4187723696231842,1204,338
-t27.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t27.png,549,21,634,47,4,0.863567054271698,1204,338
-t27.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t27.png,404,278,540,306,3,0.7289153933525085,1204,338
-t27.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t27.png,171,279,234,303,2,0.723386824131012,1204,338
-t27.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t27.png,36,70,1204,238,1,0.9220690727233887,1204,338
-t27.png,/Users/bren/Documents/git/Tweet-Screenshot-Detector/Data/Source_Images/Test_Images/t27.png,708,284,789,301,0,0.25818073749542236,1204,338
+t16.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t16.png,340,19,462,47,5,0.35238415002822876,1200,214
+t16.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t16.png,500,18,575,44,4,0.26745304465293884,1200,214
+t16.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t16.png,414,155,528,187,3,0.37040549516677856,1200,214
+t16.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t16.png,164,149,244,193,2,0.4134446382522583,1200,214
+t16.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t16.png,708,160,797,188,0,0.5679175853729248,1200,214
+t17.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t17.png,406,384,516,416,3,0.6901690363883972,1192,444
+t17.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t17.png,155,385,244,428,2,0.2764558494091034,1192,444
+t17.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t17.png,138,92,1192,330,1,0.8329556584358215,1192,444
+t17.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t17.png,700,384,778,421,0,0.5758735537528992,1192,444
+t15.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t15.png,322,17,480,44,5,0.31730902194976807,1194,182
+t15.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t15.png,402,125,528,154,3,0.4462486207485199,1194,182
+t15.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t15.png,161,121,239,156,2,0.4294266700744629,1194,182
+t15.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t15.png,697,131,797,147,0,0.4898598790168762,1194,182
+t29.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t29.png,265,19,409,55,5,0.5381330251693726,1204,256
+t29.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t29.png,168,189,234,233,2,0.5580712556838989,1204,256
+t29.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t29.png,170,57,1188,142,1,0.3441358506679535,1204,256
+t29.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t29.png,688,202,804,224,0,0.7277500033378601,1204,256
+Debate (4).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (4).png,418,25,619,77,5,0.7574236392974854,1104,512
+Debate (4).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (4).png,651,35,757,64,4,0.8977879285812378,1104,512
+Debate (4).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (4).png,189,113,1043,422,1,0.7797572016716003,1104,512
+t28.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t28.png,577,25,655,46,4,0.2728833854198456,1204,220
+t28.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t28.png,407,157,537,191,3,0.6150331497192383,1204,220
+t28.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t28.png,705,164,803,189,0,0.39471620321273804,1204,220
+t14.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t14.png,372,15,484,46,4,0.25680646300315857,1192,184
+t14.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t14.png,394,126,545,156,3,0.43491819500923157,1192,184
+t14.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t14.png,160,124,245,156,2,0.6762019991874695,1192,184
+t14.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t14.png,697,131,802,149,0,0.5556163191795349,1192,184
+Feedback (1).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Feedback (1).png,42,25,395,49,1,0.25738540291786194,395,79
+Debate (5).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (5).png,613,26,792,56,5,0.33338025212287903,1204,424
+Debate (5).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (5).png,807,24,891,63,5,0.5742051005363464,1204,424
+Debate (5).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (5).png,336,370,454,396,3,0.4310021996498108,1204,424
+Debate (5).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (5).png,176,368,228,394,2,0.6923601031303406,1204,424
+Debate (5).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (5).png,216,67,1151,322,1,0.758889377117157,1204,424
+Debate (5).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (5).png,556,374,656,388,0,0.8032544255256653,1204,424
+t13.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t13.png,361,19,498,45,4,0.31780320405960083,1192,186
+t13.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t13.png,398,125,544,158,3,0.6999368071556091,1192,186
+t13.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t13.png,157,128,252,155,2,0.3025343716144562,1192,186
+t13.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t13.png,701,128,800,154,0,0.6672006249427795,1192,186
+t12.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t12.png,403,126,547,160,3,0.6782174706459045,1200,190
+t12.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t12.png,167,127,260,159,2,0.3862081468105316,1200,190
+t12.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t12.png,704,132,809,152,0,0.3303309381008148,1200,190
+Debate (2).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (2).png,366,20,540,37,5,0.3325819671154022,1200,236
+Debate (2).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (2).png,552,13,667,42,4,0.6763830184936523,1200,236
+Debate (2).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (2).png,83,58,1200,175,1,0.41526055335998535,1200,236
+Debate (3).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (3).png,476,10,564,30,4,0.4245247542858124,1164,236
+Debate (3).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (3).png,0,65,1164,171,1,0.45498162508010864,1164,236
+Feedback (4).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Feedback (4).png,148,58,177,70,2,0.45222538709640503,637,83
+Feedback (4).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Feedback (4).png,95,56,117,70,2,0.6736937761306763,637,83
+Debate (1).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (1).png,481,18,660,35,5,0.38630783557891846,1256,960
+Debate (1).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (1).png,713,15,804,45,5,0.5086544156074524,1256,960
+Debate (1).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (1).png,713,15,804,45,4,0.3025387227535248,1256,960
+Debate (1).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (1).png,367,883,440,932,3,0.6733580231666565,1256,960
+Debate (1).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (1).png,182,884,240,935,2,0.7035195231437683,1256,960
+Debate (1).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (1).png,208,26,1183,218,1,0.7050988674163818,1256,960
+Debate (1).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (1).png,551,893,667,928,0,0.7411385774612427,1256,960
+Feedback (5).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Feedback (5).png,521,15,613,42,5,0.27663281559944153,1384,416
+Feedback (5).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Feedback (5).png,521,15,613,42,4,0.695371687412262,1384,416
+Feedback (5).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Feedback (5).png,336,306,453,348,3,0.6455994248390198,1384,416
+Feedback (5).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Feedback (5).png,169,307,234,350,2,0.3431850075721741,1384,416
+Feedback (5).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Feedback (5).png,273,84,1063,182,1,0.49762171506881714,1384,416
+Feedback (5).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Feedback (5).png,547,315,650,344,0,0.8480980396270752,1384,416
+t23.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t23.png,415,203,518,225,3,0.4525458514690399,1194,264
+t23.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t23.png,172,197,233,231,2,0.6452521085739136,1194,264
+t23.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t23.png,123,60,1194,156,1,0.5654383897781372,1194,264
+t23.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t23.png,708,202,796,229,0,0.6573325991630554,1194,264
+t22.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t22.png,458,27,671,49,5,0.5994729399681091,1196,486
+t22.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t22.png,666,26,736,50,4,0.25729063153266907,1196,486
+t22.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t22.png,417,419,531,457,3,0.8159314393997192,1196,486
+t22.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t22.png,172,424,235,460,2,0.4776216447353363,1196,486
+t22.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t22.png,181,72,1137,373,1,0.5912095904350281,1196,486
+t22.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t22.png,680,427,843,457,0,0.7387973070144653,1196,486
+t20.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t20.png,247,24,386,53,5,0.7275735139846802,1200,340
+t20.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t20.png,426,276,524,306,3,0.7692584991455078,1200,340
+t20.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t20.png,173,279,239,306,2,0.5887814164161682,1200,340
+t20.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t20.png,96,56,1200,231,1,0.5506113171577454,1200,340
+t20.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t20.png,717,282,790,296,0,0.7267379760742188,1200,340
+Debate (6).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (6).png,585,34,718,61,5,0.35853704810142517,1188,504
+Debate (6).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (6).png,619,25,680,60,5,0.4027980864048004,1188,504
+Debate (6).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (6).png,585,34,718,61,4,0.5716431736946106,1188,504
+Debate (6).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (6).png,210,70,1108,407,1,0.906076967716217,1188,504
+t21.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t21.png,311,21,489,51,5,0.2996934652328491,1196,296
+t21.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t21.png,419,234,523,265,3,0.7823375463485718,1196,296
+t21.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t21.png,165,233,231,265,2,0.7133876085281372,1196,296
+t21.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t21.png,99,54,1196,198,1,0.6247225999832153,1196,296
+t21.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t21.png,696,241,793,261,0,0.8133444786071777,1196,296
+t19.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t19.png,302,19,353,50,5,0.45627307891845703,1194,260
+t19.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t19.png,272,22,384,58,5,0.5865758061408997,1194,260
+t19.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t19.png,372,18,508,62,4,0.28009000420570374,1194,260
+t19.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t19.png,398,19,481,45,4,0.5594505071640015,1194,260
+t19.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t19.png,413,193,528,226,3,0.6633395552635193,1194,260
+t19.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t19.png,168,192,232,226,2,0.5784702897071838,1194,260
+t19.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t19.png,388,27,971,113,1,0.2874177396297455,1194,260
+t19.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t19.png,163,58,1185,143,1,0.2999471127986908,1194,260
+t19.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t19.png,697,201,789,220,0,0.7729668021202087,1194,260
+t25.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t25.png,410,25,587,43,5,0.35439780354499817,1198,294
+t25.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t25.png,415,241,517,263,3,0.6950410008430481,1198,294
+t25.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t25.png,174,232,232,269,2,0.46631696820259094,1198,294
+t25.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t25.png,92,69,1198,195,1,0.6599746346473694,1198,294
+t25.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t25.png,691,244,792,268,0,0.6545765995979309,1198,294
+Debate (7).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (7).png,646,24,732,48,4,0.35650748014450073,1264,812
+Debate (7).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (7).png,346,738,462,774,3,0.7149206399917603,1264,812
+Debate (7).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (7).png,189,741,238,773,2,0.824873149394989,1264,812
+Debate (7).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (7).png,125,56,1264,155,1,0.7613964080810547,1264,812
+Debate (7).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Debate (7).png,554,749,674,766,0,0.7160231471061707,1264,812
+t24.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t24.png,615,24,705,50,4,0.8512932062149048,1198,346
+t24.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t24.png,407,278,530,303,3,0.7475717067718506,1198,346
+t24.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t24.png,172,278,237,308,2,0.6055158376693726,1198,346
+t24.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t24.png,144,67,1198,222,1,0.6511295437812805,1198,346
+t24.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t24.png,712,283,790,300,0,0.7326654195785522,1198,346
+t18.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t18.png,281,20,373,45,5,0.6088277697563171,1200,236
+t18.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t18.png,379,14,475,48,4,0.7959884405136108,1200,236
+Feedback (3).png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/Feedback (3).png,201,138,958,453,1,0.7808839082717896,1040,478
+t26.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t26.png,424,22,616,43,5,0.4734475016593933,1196,290
+t26.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t26.png,661,8,702,62,4,0.32510221004486084,1196,290
+t26.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t26.png,660,26,699,47,4,0.417399138212204,1196,290
+t26.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t26.png,410,235,519,258,3,0.6613937616348267,1196,290
+t26.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t26.png,164,230,241,263,2,0.6218191385269165,1196,290
+t26.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t26.png,204,58,1158,183,1,0.6058876514434814,1196,290
+t26.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t26.png,699,242,783,259,0,0.7575685381889343,1196,290
+t27.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t27.png,348,20,547,51,5,0.5895863175392151,1204,338
+t27.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t27.png,570,17,616,55,4,0.4187723696231842,1204,338
+t27.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t27.png,549,21,634,47,4,0.863567054271698,1204,338
+t27.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t27.png,404,278,540,306,3,0.7289153933525085,1204,338
+t27.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t27.png,171,279,234,303,2,0.723386824131012,1204,338
+t27.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t27.png,36,70,1204,238,1,0.9220690727233887,1204,338
+t27.png,/Users/bren/Documents/git/Tweet-Screenshot-YOLOv3-Detector/Data/Source_Images/Test_Images/t27.png,708,284,789,301,0,0.25818073749542236,1204,338
